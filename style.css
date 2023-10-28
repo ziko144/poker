@@ -37,7 +37,7 @@ p {
 #game{
     background-image: url(csm_poker-flop-pot_ff5a3bafc7.jpg);
    text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     background-position: center;
     background-size: cover;
     width: 250px;
@@ -46,8 +46,9 @@ p {
     margin: auto;
 
 
+
 }
 
-button #kart button #son{
-    margin: auto;
+button{
+    margin-bottom: 80px;
 }
