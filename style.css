@@ -44,11 +44,12 @@ p {
     height: 250px;
     border-radius: 48px;
     margin: auto;
+    color: white;
 
 
 
 }
 
 button{
-    margin-bottom: 80px;
+    margin: auto;
 }
