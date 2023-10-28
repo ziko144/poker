@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Ramaraja', serif;
+   background-image: url(POKERSTARS_02_POKER_TABLE_MERCHANDISE_0009.jpg);
+}
+
+h1{
+    color: white;
+}
+
+
+
+.footer {
+    line-height: 50px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #dddbcb;
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    margin-top: 130px;
+    padding: auto;
+    margin-left: 10px;
+}
+.container{
+    display: flex;
+}
+#game{
+    color: orangered ;
+   text-align: center;
+    margin-bottom: 60px;
+
+}
